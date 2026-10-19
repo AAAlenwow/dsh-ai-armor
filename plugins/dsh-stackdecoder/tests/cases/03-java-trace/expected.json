@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "language": "java",
+  "frameCount": 2,
+  "frames.0.function": "com.example.PaymentService.charge",
+  "frames.0.context.found": true,
+  "frames.1.context.found": false
+}

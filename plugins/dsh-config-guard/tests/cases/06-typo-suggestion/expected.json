@@ -1,0 +1,7 @@
+{
+  "ok": false,
+  "info.fileType": "yaml",
+  "info.keyCount": 3,
+  "warnings.0.severity": "warning",
+  "warnings.0.message": "matches:dataSource.url"
+}

@@ -1,0 +1,10 @@
+{
+  "tool": "decode_stack",
+  "args": {
+    "cwd": "sample-app",
+    "maxFrames": 3,
+    "contextBefore": 2,
+    "contextAfter": 2,
+    "trace": "Error: something went wrong\n    at handleRequest (src/handler.js:11:10)\n    at internalWrapper (node_modules/some-lib/wrapper.js:42:7)\n    at minifiedThing (/app/bundle.min.js:1:12345)"
+  }
+}

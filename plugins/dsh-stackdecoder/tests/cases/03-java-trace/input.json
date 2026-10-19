@@ -1,0 +1,10 @@
+{
+  "tool": "decode_stack",
+  "args": {
+    "cwd": "sample-app",
+    "maxFrames": 3,
+    "contextBefore": 2,
+    "contextAfter": 2,
+    "trace": "java.lang.IllegalArgumentException: cardNumber is null\n    at com.example.PaymentService.charge(PaymentService.java:6)\n    at com.example.CheckoutController.checkout(CheckoutController.java:42)"
+  }
+}

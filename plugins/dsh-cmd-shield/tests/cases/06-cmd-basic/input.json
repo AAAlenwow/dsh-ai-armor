@@ -1,0 +1,4 @@
+{
+  "shell": "cmd",
+  "command": "dir C:\\Users & echo done"
+}

@@ -1,0 +1,8 @@
+{
+  "ok": false,
+  "info.fileType": "yaml",
+  "errors.0.severity": "error",
+  "errors.0.message": "matches:app.name",
+  "errors.0.line": 8,
+  "info.keyCount": 4
+}

@@ -1,0 +1,4 @@
+{
+  "shell": "powershell",
+  "command": "Write-Host \"你好世界 $env:USERNAME\""
+}

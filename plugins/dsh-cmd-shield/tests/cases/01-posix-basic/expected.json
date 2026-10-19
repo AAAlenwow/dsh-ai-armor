@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "shell": "bash",
+  "family": "posix",
+  "method": "single-quote",
+  "invocation": "bash -c 'ls -la /tmp'"
+}

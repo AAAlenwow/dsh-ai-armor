@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "shell": "powershell",
+  "family": "powershell",
+  "method": "encodedcommand-utf16le",
+  "invocation": "matches:pwsh -NoProfile",
+  "script": "matches:你好世界"
+}

@@ -1,0 +1,4 @@
+{
+  "shell": "bash",
+  "command": "ls -la /tmp"
+}

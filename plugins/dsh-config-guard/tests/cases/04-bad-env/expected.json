@@ -1,0 +1,7 @@
+{
+  "ok": false,
+  "info.fileType": "env",
+  "info.keyCount": 3,
+  "errors.0.severity": "error",
+  "errors.0.message": "matches:bad name"
+}

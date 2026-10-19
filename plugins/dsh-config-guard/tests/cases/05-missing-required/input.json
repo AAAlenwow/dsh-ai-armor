@@ -1,0 +1,8 @@
+{
+  "file": "application.yml",
+  "_inlineFile": "application.yml",
+  "_inlineContent": "server:\n  port: 8080\nlogging:\n  level: INFO\n",
+  "schema": {
+    "required": ["server.port", "server.host", "dataSource.url", "logging.level"]
+  }
+}

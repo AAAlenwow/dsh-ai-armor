@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "shell": "cmd.exe",
+  "family": "cmd",
+  "invocation": "matches:%%PATH%%"
+}

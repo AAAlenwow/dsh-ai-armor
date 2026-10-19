@@ -1,0 +1,45 @@
+{
+  "name": "dsh-ai-armor",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAAlenwow/dsh-ai-armor.git"
+  },
+  "description": "Five production-grade DSH tools (when-broke, stackdecoder, config-guard, cmd-shield, mp-auditor) bundled into one plugin: git regression finder, stack-trace decoder, config-file validator, cross-platform shell escape, MyBatis Plus SQL auditor. 五个生产级 DSH 工具合一：git 回归定位、堆栈解码、配置校验、跨平台 shell 转义、MyBatis Plus SQL 审计。",
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "git",
+    "stack-trace",
+    "config",
+    "shell",
+    "mybatis-plus",
+    "sql-audit",
+    "ai-safety"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "cordis.patch.yml",
+    "lib",
+    "plugins",
+    "README.md"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "compatibility": {
+      "dsh": "0.1.7-alpha.1",
+      "profiles": [
+        "web"
+      ]
+    }
+  },
+  "type": "module"
+}

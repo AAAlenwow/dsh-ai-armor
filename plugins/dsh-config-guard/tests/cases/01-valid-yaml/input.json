@@ -1,0 +1,5 @@
+{
+  "file": "application.yml",
+  "_inlineFile": "application.yml",
+  "_inlineContent": "server:\n  port: 8080\n  host: localhost\ndataSource:\n  url: jdbc:mysql://localhost/app\n  username: app\nlogging:\n  level: INFO\n  appenders:\n    - console\n    - file\n"
+}

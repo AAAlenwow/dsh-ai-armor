@@ -1,0 +1,5 @@
+{
+  "file": ".env",
+  "_inlineFile": ".env",
+  "_inlineContent": "GOOD=value\nKEY = WITH SPACES\nbad name=foo\nNORMAL=yes\n"
+}

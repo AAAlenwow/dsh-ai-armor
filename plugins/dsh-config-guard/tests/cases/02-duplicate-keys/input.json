@@ -1,0 +1,5 @@
+{
+  "file": "dup.yml",
+  "_inlineFile": "dup.yml",
+  "_inlineContent": "server:\n  port: 8080\napp:\n  name: first\ndataSource:\n  url: jdbc:mysql://localhost/app\napp:\n  name: second\n"
+}

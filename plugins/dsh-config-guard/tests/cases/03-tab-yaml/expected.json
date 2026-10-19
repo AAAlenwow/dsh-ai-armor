@@ -1,0 +1,8 @@
+{
+  "ok": false,
+  "info.fileType": "yaml",
+  "errors.0.severity": "error",
+  "errors.0.line": 3,
+  "errors.0.message": "matches:tab",
+  "info.keyCount": 3
+}

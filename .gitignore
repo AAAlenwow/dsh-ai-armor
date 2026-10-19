@@ -1,0 +1,10 @@
+node_modules/
+*.log
+.DS_Store
+tests/cases/*/sample-app/
+tests/cases/*/not-a-repo/
+tests/REPORT.md
+plugins/*/tests/REPORT.md
+plugins/*/REPORT.md
+plugins/*/tests/cases/*/sample-app/
+plugins/*/tests/cases/*/not-a-repo/

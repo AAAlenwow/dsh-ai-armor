@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "shell": "zsh",
+  "family": "posix",
+  "invocation": "matches:/Users/My Name/Documents",
+  "note": "matches:cd"
+}

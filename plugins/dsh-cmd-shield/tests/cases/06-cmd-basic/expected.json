@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "shell": "cmd",
+  "family": "cmd",
+  "method": "caret-escape + double-quote",
+  "invocation": "matches:^&"
+}

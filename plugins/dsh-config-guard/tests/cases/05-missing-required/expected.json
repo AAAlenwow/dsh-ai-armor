@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "info.fileType": "yaml",
+  "info.keyCount": 2,
+  "errors.0.severity": "error",
+  "errors.0.message": "matches:server.host",
+  "errors.1.severity": "error",
+  "errors.1.message": "matches:dataSource.url"
+}

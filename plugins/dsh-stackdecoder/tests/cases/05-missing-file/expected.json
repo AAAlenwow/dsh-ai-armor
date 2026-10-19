@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "frameCount": 3,
+  "resolvedCount": 1,
+  "frames.0.context.found": true,
+  "frames.1.context.found": false,
+  "frames.2.context.found": false
+}

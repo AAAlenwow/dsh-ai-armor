@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "language": "javascript",
+  "frameCount": 4,
+  "resolvedCount": 2,
+  "missingCount": 2,
+  "frames.0.context.found": true,
+  "frames.1.context.found": true,
+  "frames.2.context.found": false,
+  "frames.3.context.found": false
+}

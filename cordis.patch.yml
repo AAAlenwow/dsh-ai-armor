@@ -1,0 +1,6 @@
+# dsh-ai-armor — host entry.
+# The plugin (lib/index.js) re-exports the 8 tools from the 5 sub-plugins
+# and registers them all with ctx.tools.register() at apply time.
+- insert:
+    - id: ai-armor
+      name: dsh-ai-armor

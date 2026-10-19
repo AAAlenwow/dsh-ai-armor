@@ -1,0 +1,8 @@
+{
+  "file": "application.yml",
+  "_inlineFile": "application.yml",
+  "_inlineContent": "server:\n  port: 8080\ndatasource:\n  url: jdbc:mysql://localhost/app\nlogging:\n  level: INFO\n",
+  "schema": {
+    "required": ["server.port", "dataSource.url", "logging.level"]
+  }
+}

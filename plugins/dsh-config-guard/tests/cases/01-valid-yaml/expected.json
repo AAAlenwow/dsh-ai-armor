@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "errors": [],
+  "info.fileType": "yaml",
+  "info.keyCount": 7,
+  "info.keys": ["server.port", "server.host", "dataSource.url", "dataSource.username", "logging.level", "logging.appenders[0]", "logging.appenders[1]"]
+}

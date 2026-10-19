@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "shell": "pwsh",
+  "family": "powershell",
+  "method": "encodedcommand-utf16le",
+  "invocation": "matches:pwsh -NoProfile -NonInteractive -EncodedCommand"
+}

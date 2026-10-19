@@ -1,0 +1,5 @@
+{
+  "shell": "zsh",
+  "command": "cat /Users/My Name/Documents/notes.txt",
+  "cwd": "/Users/My Name/Documents"
+}

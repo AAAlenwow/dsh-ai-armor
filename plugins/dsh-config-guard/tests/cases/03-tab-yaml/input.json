@@ -1,0 +1,5 @@
+{
+  "file": "tabs.yml",
+  "_inlineFile": "tabs.yml",
+  "_inlineContent": "server:\n  port: 8080\n\thost: localhost\ndataSource:\n  url: jdbc:mysql://localhost/app\n"
+}

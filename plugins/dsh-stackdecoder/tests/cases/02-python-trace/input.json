@@ -1,0 +1,10 @@
+{
+  "tool": "decode_stack",
+  "args": {
+    "cwd": "sample-app",
+    "maxFrames": 5,
+    "contextBefore": 2,
+    "contextAfter": 2,
+    "trace": "Traceback (most recent call last):\n  File \"src/auth.py\", line 9, in login\n    validate_token(None)\n  File \"src/auth.py\", line 5, in validate_token\n    raise ValueError(\"token is empty\")\nValueError: token is empty"
+  }
+}

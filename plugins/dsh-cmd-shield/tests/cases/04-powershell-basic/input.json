@@ -1,0 +1,4 @@
+{
+  "shell": "pwsh",
+  "command": "Get-ChildItem -Path C:\\Users"
+}

@@ -1,0 +1,4 @@
+{
+  "shell": "bash",
+  "command": "echo 'hello world' && echo \"another\""
+}

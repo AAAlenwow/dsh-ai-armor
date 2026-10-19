@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "language": "python",
+  "frameCount": 2,
+  "frames.0.function": "login",
+  "frames.0.line": 9,
+  "frames.0.context.found": true,
+  "frames.1.function": "validate_token",
+  "frames.1.line": 5,
+  "frames.1.context.snippet.2.highlight": true,
+  "frames.1.context.snippet.2.code": "matches:raise ValueError"
+}

@@ -1,0 +1,4 @@
+{
+  "shell": "cmd.exe",
+  "command": "echo %PATH% %USERNAME%"
+}

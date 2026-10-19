@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "language": "javascript",
+  "frameCount": 7,
+  "resolvedCount": 4,
+  "truncated": true,
+  "frames.0.function": "getUserById",
+  "frames.0.line": 4,
+  "frames.0.context.found": true,
+  "frames.0.context.snippet.2.highlight": true,
+  "frames.0.context.snippet.2.code": "matches:throw new TypeError",
+  "frames.3.function": "Object.<anonymous>",
+  "frames.3.context.found": true,
+  "frames.4.context.found": false
+}

@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "shell": "bash",
+  "family": "posix",
+  "invocation": "matches:'\\''"
+}
