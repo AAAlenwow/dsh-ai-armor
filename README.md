@@ -90,3 +90,17 @@ cd tests && node run.mjs
 ## License
 
 MIT
+
+## Standalone sub-plugins
+
+Every tool in this bundle is also published as a standalone installable plugin:
+
+| Repo | Tools |
+|---|---|
+| [dsh-when-broke](https://github.com/AAAlenwow/dsh-when-broke) | 4 — find_introducer / recent_changes / bisect_with_repro / blame_age |
+| [dsh-stackdecoder](https://github.com/AAAlenwow/dsh-stackdecoder) | 1 — decode_stack |
+| [dsh-config-guard](https://github.com/AAAlenwow/dsh-config-guard) | 1 — validate_config |
+| [dsh-cmd-shield](https://github.com/AAAlenwow/dsh-cmd-shield) | 1 — build_shell_invocation |
+| [dsh-mp-auditor](https://github.com/AAAlenwow/dsh-mp-auditor) | 1 — audit_mp_code |
+
+Install either the bundle or the standalone packages, not both (tool ids would collide).

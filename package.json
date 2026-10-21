@@ -35,7 +35,7 @@
       "patch": "./cordis.patch.yml"
     },
     "compatibility": {
-      "dsh": "0.1.7-alpha.1",
+      "dsh": ">=0.1.7-alpha.1",
       "profiles": [
         "web"
       ]
